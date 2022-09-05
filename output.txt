@@ -1,0 +1,12 @@
+is Evaluating
+~ Data streams verified ~
+~ Data streams verified ~
+Loading data...
+Loading models from models/testing_silence/
+Using hard_voting on full_dataset
+Models evaluated  ['compare', 'pause', 'intervention']
+Fold 1
+Train
+> c:\users\bonap\documents\ad detection\alzheimers-dementia-master\evaluator.py(130)evaluate()
+-> train_accuracy, learnt_voter, _ = get_ensemble_accuracy(task, models, features, y_train, config)
+(Pdb) (Pdb) (Pdb) (Pdb) (Pdb) 
